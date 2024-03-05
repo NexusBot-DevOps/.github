@@ -1,2 +1,4 @@
-## Welcome to Nexus DevOps 
+## Welcome to NexusBot DevOps 
 
+
+https://discord.gg/zzxmsB7x6z
