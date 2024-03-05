@@ -1,7 +1,9 @@
 ## Welcome to NexusBot DevOps 
 
 
-Discord:
+<h2>Discord</h2>
 https://discord.gg/zzxmsB7x6z
 
-Trello: https://trello.com/b/YmWN3OHV/devops
+<h2>Trello</h2>
+ https://trello.com/b/YmWN3OHV/devops
+
