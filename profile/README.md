@@ -3,6 +3,9 @@
 <h2> NexusBot</h2>
 <p> Our goal with the NexusBot project is creating an all in one discord bot without any paywall</p>
 
+<P2>Planned features:</P2>
+- Moderation commands
+- F1DB Inergration 
 
 <h2>Discord</h2>
 https://discord.gg/zzxmsB7x6z
