@@ -5,7 +5,7 @@
 
 <P2>Planned features:</P2>
 - Moderation commands
-- F1DB Inergration 
+- [F1DB](https://github.com/f1db/f1db) Inergration 
 
 <h2>Discord</h2>
 https://discord.gg/zzxmsB7x6z
