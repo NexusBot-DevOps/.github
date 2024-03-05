@@ -22,6 +22,6 @@
 
 
 
-<h2>Discord</h2>
+<h2>Social Links</h2>
 
-<a href = "https://discord.gg/zzxmsB7x6z"><img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-o5mluhz2.png" height = 30px/></a> https://discord.gg/zzxmsB7x6z
+<a href = "https://discord.gg/zzxmsB7x6z"><img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-o5mluhz2.png" height = 30px/></a> 
