@@ -23,5 +23,5 @@
 
 
 <h2>Discord</h2>
-https://discord.gg/zzxmsB7x6z
-<img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-o5mluhz2.png" height = 20px />
+
+<img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-o5mluhz2.png" height = 20px /> https://discord.gg/zzxmsB7x6z
